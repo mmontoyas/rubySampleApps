@@ -47,3 +47,5 @@ Or, if you don't want/need launchctl, you can just run:
 ==> Summary
 🍺  /usr/local/Cellar/postgresql/9.4.5_2: 3021 files, 40M
 
+If errors are related with gem mysql2 and versioning, or if minimum version is not installed,
+sudo bundle install
