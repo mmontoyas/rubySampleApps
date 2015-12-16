@@ -25,6 +25,9 @@ Or, if you don't want/need launchctl, you can just run:
 ==> Summary
 🍺  /usr/local/Cellar/mysql/5.7.10: 12677 files, 465M
 
+
+Note: If errors are related with mysql2 gem, probably missing:
+sudo  bundle install or bundle install
 POSTGRESS SQL
 =============
 
